@@ -1,0 +1,16 @@
+C:\Users\DB\Desktop\ProjetoMatematica\ProjetoMatematica\bin\Debug\ProjetoMatematica.exe.config
+C:\Users\DB\Desktop\ProjetoMatematica\ProjetoMatematica\bin\Debug\ProjetoMatematica.exe
+C:\Users\DB\Desktop\ProjetoMatematica\ProjetoMatematica\bin\Debug\ProjetoMatematica.pdb
+C:\Users\DB\Desktop\ProjetoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.csproj.AssemblyReference.cache
+C:\Users\DB\Desktop\ProjetoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.Frm_Abertura.resources
+C:\Users\DB\Desktop\ProjetoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.Properties.Resources.resources
+C:\Users\DB\Desktop\ProjetoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.csproj.GenerateResource.cache
+C:\Users\DB\Desktop\ProjetoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.csproj.CoreCompileInputs.cache
+C:\Users\DB\Desktop\ProjetoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.exe
+C:\Users\DB\Desktop\ProjetoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.pdb
+C:\Users\DB\Desktop\ProjetoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.exe.config
+C:\Users\DB\Desktop\ProjetoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.Frm_Antecessor.resources
+C:\Users\DB\Desktop\ProjetoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.Frm_Dobro.resources
+C:\Users\DB\Desktop\ProjetoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.Frm_OperacaoAritmetica.resources
+C:\Users\DB\Desktop\ProjetoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.Frm_ParOuImpar.resources
+C:\Users\DB\Desktop\ProjetoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.Frm_Positivo.resources
