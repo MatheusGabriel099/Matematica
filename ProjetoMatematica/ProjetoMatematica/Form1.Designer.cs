@@ -62,7 +62,6 @@
             this.Rad_Dobro.Name = "Rad_Dobro";
             this.Rad_Dobro.Size = new System.Drawing.Size(88, 29);
             this.Rad_Dobro.TabIndex = 1;
-            this.Rad_Dobro.TabStop = true;
             this.Rad_Dobro.Text = "Dobro";
             this.Rad_Dobro.UseVisualStyleBackColor = false;
             this.Rad_Dobro.CheckedChanged += new System.EventHandler(this.Rad_Dobro_CheckedChanged);
@@ -77,9 +76,9 @@
             this.Rad_ParOuImpar.Name = "Rad_ParOuImpar";
             this.Rad_ParOuImpar.Size = new System.Drawing.Size(130, 24);
             this.Rad_ParOuImpar.TabIndex = 2;
-            this.Rad_ParOuImpar.TabStop = true;
             this.Rad_ParOuImpar.Text = "Par ou Ímpar";
             this.Rad_ParOuImpar.UseVisualStyleBackColor = false;
+            this.Rad_ParOuImpar.CheckedChanged += new System.EventHandler(this.Rad_ParOuImpar_CheckedChanged);
             // 
             // Rad_Antecessor
             // 
@@ -91,9 +90,9 @@
             this.Rad_Antecessor.Name = "Rad_Antecessor";
             this.Rad_Antecessor.Size = new System.Drawing.Size(223, 24);
             this.Rad_Antecessor.TabIndex = 3;
-            this.Rad_Antecessor.TabStop = true;
             this.Rad_Antecessor.Text = "Antecessor ou Sucessor\r\n";
             this.Rad_Antecessor.UseVisualStyleBackColor = false;
+            this.Rad_Antecessor.CheckedChanged += new System.EventHandler(this.Rad_Antecessor_CheckedChanged);
             // 
             // Rad_Positivo
             // 
@@ -105,9 +104,9 @@
             this.Rad_Positivo.Name = "Rad_Positivo";
             this.Rad_Positivo.Size = new System.Drawing.Size(253, 24);
             this.Rad_Positivo.TabIndex = 4;
-            this.Rad_Positivo.TabStop = true;
             this.Rad_Positivo.Text = "Positivo, Negativo ou Neutro";
             this.Rad_Positivo.UseVisualStyleBackColor = false;
+            this.Rad_Positivo.CheckedChanged += new System.EventHandler(this.Rad_Positivo_CheckedChanged);
             // 
             // Rad_Operacao
             // 
@@ -119,7 +118,6 @@
             this.Rad_Operacao.Name = "Rad_Operacao";
             this.Rad_Operacao.Size = new System.Drawing.Size(191, 24);
             this.Rad_Operacao.TabIndex = 5;
-            this.Rad_Operacao.TabStop = true;
             this.Rad_Operacao.Text = "Operação Aritmética";
             this.Rad_Operacao.UseVisualStyleBackColor = false;
             this.Rad_Operacao.CheckedChanged += new System.EventHandler(this.radioButton5_CheckedChanged);
@@ -155,8 +153,10 @@
             this.Controls.Add(this.Rad_ParOuImpar);
             this.Controls.Add(this.Rad_Dobro);
             this.Controls.Add(this.Lbl_Projeto);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Frm_Abertura";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Matemática";
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -19,7 +19,9 @@ namespace ProjetoMatematica
 
         private void radioButton5_CheckedChanged(object sender, EventArgs e)
         {
-
+            Frm_OperacaoAritmetica aritmetica = new Frm_OperacaoAritmetica();
+            aritmetica.Show();
+            Hide();
         }
 
         private void Btn_Fechar_Click_1(object sender, EventArgs e)
@@ -29,7 +31,30 @@ namespace ProjetoMatematica
 
         private void Rad_Dobro_CheckedChanged(object sender, EventArgs e)
         {
+           Frm_Dobro dobro = new Frm_Dobro();
+            dobro.Show();
+            Hide();
+        }
 
+        private void Rad_ParOuImpar_CheckedChanged(object sender, EventArgs e)
+        {
+            Frm_ParOuImpar Impar = new Frm_ParOuImpar();
+            Impar.Show();
+            Hide();
+        }
+
+        private void Rad_Antecessor_CheckedChanged(object sender, EventArgs e)
+        {
+            Frm_Antecessor antecessor = new Frm_Antecessor();
+            antecessor.Show();
+            Hide();
+        }
+
+        private void Rad_Positivo_CheckedChanged(object sender, EventArgs e)
+        {
+            Frm_Positivo positivo = new Frm_Positivo();
+            positivo.Show();
+            Hide();
         }
     }
 }

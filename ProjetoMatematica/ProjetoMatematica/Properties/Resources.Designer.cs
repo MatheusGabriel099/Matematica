@@ -63,6 +63,26 @@ namespace ProjetoMatematica.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Antecessor {
+            get {
+                object obj = ResourceManager.GetObject("Antecessor", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Aritmética {
+            get {
+                object obj = ResourceManager.GetObject("Aritmética", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Calculadora {
             get {
                 object obj = ResourceManager.GetObject("Calculadora", resourceCulture);

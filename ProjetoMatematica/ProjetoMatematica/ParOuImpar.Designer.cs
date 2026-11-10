@@ -31,6 +31,7 @@
             this.Lbl_Par = new System.Windows.Forms.Label();
             this.Lbl_DigiteNumero = new System.Windows.Forms.Label();
             this.textbox = new System.Windows.Forms.TextBox();
+            this.Btn_Voltar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Lbl_Par
@@ -58,11 +59,28 @@
             // 
             // textbox
             // 
+            this.textbox.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textbox.Location = new System.Drawing.Point(375, 282);
             this.textbox.Multiline = true;
             this.textbox.Name = "textbox";
             this.textbox.Size = new System.Drawing.Size(156, 27);
             this.textbox.TabIndex = 2;
+            // 
+            // Btn_Voltar
+            // 
+            this.Btn_Voltar.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.Btn_Voltar.FlatAppearance.BorderSize = 2;
+            this.Btn_Voltar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
+            this.Btn_Voltar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
+            this.Btn_Voltar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Btn_Voltar.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Btn_Voltar.Location = new System.Drawing.Point(831, 12);
+            this.Btn_Voltar.Name = "Btn_Voltar";
+            this.Btn_Voltar.Size = new System.Drawing.Size(75, 32);
+            this.Btn_Voltar.TabIndex = 3;
+            this.Btn_Voltar.Text = "Voltar";
+            this.Btn_Voltar.UseVisualStyleBackColor = true;
+            this.Btn_Voltar.Click += new System.EventHandler(this.Btn_Voltar_Click);
             // 
             // Frm_ParOuImpar
             // 
@@ -70,11 +88,14 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::ProjetoMatematica.Properties.Resources.ParOuImpar;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.ClientSize = new System.Drawing.Size(918, 502);
+            this.ClientSize = new System.Drawing.Size(934, 541);
+            this.Controls.Add(this.Btn_Voltar);
             this.Controls.Add(this.textbox);
             this.Controls.Add(this.Lbl_DigiteNumero);
             this.Controls.Add(this.Lbl_Par);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Frm_ParOuImpar";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Par Ou Ímpar";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -86,5 +107,6 @@
         private System.Windows.Forms.Label Lbl_Par;
         private System.Windows.Forms.Label Lbl_DigiteNumero;
         private System.Windows.Forms.TextBox textbox;
+        private System.Windows.Forms.Button Btn_Voltar;
     }
 }

@@ -16,5 +16,12 @@ namespace ProjetoMatematica
         {
             InitializeComponent();
         }
+
+        private void Btn_Voltar_Click(object sender, EventArgs e)
+        {
+            Frm_Abertura Abertura = new Frm_Abertura();
+            Abertura.Show();
+            this.Close();
+        }
     }
 }

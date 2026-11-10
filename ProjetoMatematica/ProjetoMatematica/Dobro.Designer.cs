@@ -31,7 +31,7 @@
             this.Lbl_MostrarDobro = new System.Windows.Forms.Label();
             this.Btn_Voltar = new System.Windows.Forms.Button();
             this.Lbl_DigiteUmNumero = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.Txt_NumDobro = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // Lbl_MostrarDobro
@@ -72,14 +72,19 @@
             this.Lbl_DigiteUmNumero.Text = "Digite um Número:";
             this.Lbl_DigiteUmNumero.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
-            // textBox1
+            // Txt_NumDobro
             // 
-            this.textBox1.BackColor = System.Drawing.Color.DarkGray;
-            this.textBox1.Location = new System.Drawing.Point(526, 206);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(193, 37);
-            this.textBox1.TabIndex = 5;
+            this.Txt_NumDobro.BackColor = System.Drawing.Color.White;
+            this.Txt_NumDobro.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Txt_NumDobro.Location = new System.Drawing.Point(526, 218);
+            this.Txt_NumDobro.MaxLength = 1000;
+            this.Txt_NumDobro.Multiline = true;
+            this.Txt_NumDobro.Name = "Txt_NumDobro";
+            this.Txt_NumDobro.Size = new System.Drawing.Size(132, 24);
+            this.Txt_NumDobro.TabIndex = 5;
+            this.Txt_NumDobro.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.Txt_NumDobro.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.Txt_NumDobro.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
             // 
             // Frm_Dobro
             // 
@@ -89,12 +94,13 @@
             this.BackgroundImage = global::ProjetoMatematica.Properties.Resources.Dobro3;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(934, 541);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.Txt_NumDobro);
             this.Controls.Add(this.Lbl_DigiteUmNumero);
             this.Controls.Add(this.Btn_Voltar);
             this.Controls.Add(this.Lbl_MostrarDobro);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Frm_Dobro";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Dobro";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -105,6 +111,6 @@
         private System.Windows.Forms.Label Lbl_MostrarDobro;
         private System.Windows.Forms.Button Btn_Voltar;
         private System.Windows.Forms.Label Lbl_DigiteUmNumero;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox Txt_NumDobro;
     }
 }

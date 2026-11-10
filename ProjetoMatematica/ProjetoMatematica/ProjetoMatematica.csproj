@@ -155,5 +155,11 @@
   <ItemGroup>
     <None Include="Resources\Positivo.jpeg.jpeg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Antecessor.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aritmética.jpeg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
