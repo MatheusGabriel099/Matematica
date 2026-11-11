@@ -30,7 +30,7 @@
         {
             this.Lbl_Par = new System.Windows.Forms.Label();
             this.Lbl_DigiteNumero = new System.Windows.Forms.Label();
-            this.textbox = new System.Windows.Forms.TextBox();
+            this.Txt_ParouImpar = new System.Windows.Forms.TextBox();
             this.Btn_Voltar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -57,14 +57,15 @@
             this.Lbl_DigiteNumero.TabIndex = 1;
             this.Lbl_DigiteNumero.Text = "Digite um Número";
             // 
-            // textbox
+            // Txt_ParouImpar
             // 
-            this.textbox.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textbox.Location = new System.Drawing.Point(375, 282);
-            this.textbox.Multiline = true;
-            this.textbox.Name = "textbox";
-            this.textbox.Size = new System.Drawing.Size(156, 27);
-            this.textbox.TabIndex = 2;
+            this.Txt_ParouImpar.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Txt_ParouImpar.Location = new System.Drawing.Point(375, 282);
+            this.Txt_ParouImpar.Multiline = true;
+            this.Txt_ParouImpar.Name = "Txt_ParouImpar";
+            this.Txt_ParouImpar.Size = new System.Drawing.Size(156, 27);
+            this.Txt_ParouImpar.TabIndex = 2;
+            this.Txt_ParouImpar.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textbox_KeyPress);
             // 
             // Btn_Voltar
             // 
@@ -90,7 +91,7 @@
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(934, 541);
             this.Controls.Add(this.Btn_Voltar);
-            this.Controls.Add(this.textbox);
+            this.Controls.Add(this.Txt_ParouImpar);
             this.Controls.Add(this.Lbl_DigiteNumero);
             this.Controls.Add(this.Lbl_Par);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -106,7 +107,7 @@
 
         private System.Windows.Forms.Label Lbl_Par;
         private System.Windows.Forms.Label Lbl_DigiteNumero;
-        private System.Windows.Forms.TextBox textbox;
+        private System.Windows.Forms.TextBox Txt_ParouImpar;
         private System.Windows.Forms.Button Btn_Voltar;
     }
 }
