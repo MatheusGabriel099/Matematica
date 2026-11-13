@@ -30,7 +30,7 @@
         {
             this.Lbl_Positivo = new System.Windows.Forms.Label();
             this.Lbl_DigiteNumeroo = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.Txt_NumPositivo = new System.Windows.Forms.TextBox();
             this.Btn_Voltar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -56,14 +56,15 @@
             this.Lbl_DigiteNumeroo.TabIndex = 1;
             this.Lbl_DigiteNumeroo.Text = "Digite um Número:";
             // 
-            // textBox1
+            // Txt_NumPositivo
             // 
-            this.textBox1.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(501, 254);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(158, 31);
-            this.textBox1.TabIndex = 2;
+            this.Txt_NumPositivo.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Txt_NumPositivo.Location = new System.Drawing.Point(501, 254);
+            this.Txt_NumPositivo.Multiline = true;
+            this.Txt_NumPositivo.Name = "Txt_NumPositivo";
+            this.Txt_NumPositivo.Size = new System.Drawing.Size(158, 31);
+            this.Txt_NumPositivo.TabIndex = 2;
+            this.Txt_NumPositivo.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
             // 
             // Btn_Voltar
             // 
@@ -89,7 +90,7 @@
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(934, 541);
             this.Controls.Add(this.Btn_Voltar);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.Txt_NumPositivo);
             this.Controls.Add(this.Lbl_DigiteNumeroo);
             this.Controls.Add(this.Lbl_Positivo);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -105,7 +106,7 @@
 
         private System.Windows.Forms.Label Lbl_Positivo;
         private System.Windows.Forms.Label Lbl_DigiteNumeroo;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox Txt_NumPositivo;
         private System.Windows.Forms.Button Btn_Voltar;
     }
 }

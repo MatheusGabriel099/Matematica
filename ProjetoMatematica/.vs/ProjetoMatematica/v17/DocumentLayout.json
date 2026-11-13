@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\projetomatematica\\positivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|solutionrelative:projetomatematica\\positivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\projetomatematica\\positivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|solutionrelative:projetomatematica\\positivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\projetomatematica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|solutionrelative:projetomatematica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|c:\\users\\db\\desktop\\matematica\\projetomatematica\\projetomatematica\\parouimpar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|solutionrelative:projetomatematica\\parouimpar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|solutionrelative:projetomatematica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\projetomatematica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|solutionrelative:projetomatematica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\projetomatematica\\operacaoaritmetica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|solutionrelative:projetomatematica\\operacaoaritmetica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|solutionrelative:projetomatematica\\antecessorousucessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\projetomatematica\\positivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|solutionrelative:projetomatematica\\positivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\projetomatematica\\operacaoaritmetica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|solutionrelative:projetomatematica\\operacaoaritmetica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\projetomatematica\\positivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|solutionrelative:projetomatematica\\positivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF9EAE4F-4089-43B8-A6F9-AE4177E0918A}|ProjetoMatematica\\ProjetoMatematica.csproj|C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\projetomatematica\\antecessorousucessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\ProjetoMatematica\\Form1.cs",
               "RelativeDocumentMoniker": "ProjetoMatematica\\Form1.cs",
@@ -70,11 +70,12 @@
               "RelativeToolTip": "ProjetoMatematica\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T22:36:00.379Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\ProjetoMatematica\\Form1.cs",
               "RelativeDocumentMoniker": "ProjetoMatematica\\Form1.cs",
@@ -83,11 +84,12 @@
               "ViewState": "AgIAABoAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T22:49:51.461Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Dobro.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\ProjetoMatematica\\Dobro.cs",
               "RelativeDocumentMoniker": "ProjetoMatematica\\Dobro.cs",
@@ -99,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Dobro.cs",
               "DocumentMoniker": "C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\ProjetoMatematica\\Dobro.cs",
               "RelativeDocumentMoniker": "ProjetoMatematica\\Dobro.cs",
@@ -112,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ParOuImpar.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\ProjetoMatematica\\ParOuImpar.cs",
               "RelativeDocumentMoniker": "ProjetoMatematica\\ParOuImpar.cs",
@@ -125,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ParOuImpar.cs",
               "DocumentMoniker": "C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\ProjetoMatematica\\ParOuImpar.cs",
               "RelativeDocumentMoniker": "ProjetoMatematica\\ParOuImpar.cs",
@@ -139,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "OperacaoAritmetica.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\ProjetoMatematica\\OperacaoAritmetica.cs",
               "RelativeDocumentMoniker": "ProjetoMatematica\\OperacaoAritmetica.cs",
@@ -151,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "OperacaoAritmetica.cs",
               "DocumentMoniker": "C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\ProjetoMatematica\\OperacaoAritmetica.cs",
               "RelativeDocumentMoniker": "ProjetoMatematica\\OperacaoAritmetica.cs",
@@ -164,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Positivo.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\ProjetoMatematica\\Positivo.cs",
               "RelativeDocumentMoniker": "ProjetoMatematica\\Positivo.cs",
@@ -172,24 +174,26 @@
               "RelativeToolTip": "ProjetoMatematica\\Positivo.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T22:36:11.838Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Positivo.cs",
               "DocumentMoniker": "C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\ProjetoMatematica\\Positivo.cs",
               "RelativeDocumentMoniker": "ProjetoMatematica\\Positivo.cs",
               "ToolTip": "C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\ProjetoMatematica\\Positivo.cs",
               "RelativeToolTip": "ProjetoMatematica\\Positivo.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwB0AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T23:03:36.342Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AntecessorOuSucessor.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DB\\Desktop\\Matematica\\ProjetoMatematica\\ProjetoMatematica\\AntecessorOuSucessor.cs",
               "RelativeDocumentMoniker": "ProjetoMatematica\\AntecessorOuSucessor.cs",
@@ -211,6 +215,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T23:04:53.691Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
